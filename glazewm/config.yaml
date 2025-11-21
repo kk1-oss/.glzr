@@ -260,7 +260,7 @@ keybindings:
   - commands: ['shell-exec wt -p "PanCode"']
     bindings: ['alt+enter']
   #Launch applications
-  - commands: ['shell-exec whatsapp']
+  - commands: ['shell-exec GoogleChrome']
     bindings: ['alt+f1']
   - commands: ['shell-exec Everything']
     bindings: ['alt+f2']
@@ -342,3 +342,4 @@ keybindings:
 ipc:
   enabled: true
   port: 6124
+
